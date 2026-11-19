@@ -36,7 +36,7 @@ built for one target: the Tesla V100, on one card or on two cards working as one
 Measured on two cards from 2017 with a 100,000-token context: about 200 tokens per second of writing
 and about 5,570 tokens per second of prompt reading on a 125B model (state of 19 November 2026).
 
-WARP has its own YouTube channel: **[WARP AI](https://www.youtube.com/@warpaiengine)**.
+WARP videos are on my YouTube channel: **[Masterful Dev](https://www.youtube.com/@masterful-dev)**.
 
 ## How I work
 
@@ -52,7 +52,7 @@ WARP has its own YouTube channel: **[WARP AI](https://www.youtube.com/@warpaieng
 
 ## Find me
 
-▶ **YouTube:** [WARP AI](https://www.youtube.com/@warpaiengine)
+▶ **YouTube:** [Masterful Dev](https://www.youtube.com/@masterful-dev)
 
 ---
 
